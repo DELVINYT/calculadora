@@ -1,2 +1,3 @@
 # calculadora
-este es el primer proyecto del maestro natanael sosa
+mi primir proyecto
+
